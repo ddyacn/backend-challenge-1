@@ -1,0 +1,14 @@
+
+.idea
+.DS_Store
+
+*.class
+*.iml
+
+*.jar
+*.war
+*.ear
+
+hubrick-backend-challenge.iml
+
+target/
