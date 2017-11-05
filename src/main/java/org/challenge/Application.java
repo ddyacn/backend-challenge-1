@@ -49,7 +49,7 @@ public class Application {
       writer.write(reports);
 
     } catch (Exception ex) {
-      System.err.println(ex.toString());
+      System.err.println("\tError: " + ex.toString());
     }
   }
 }
